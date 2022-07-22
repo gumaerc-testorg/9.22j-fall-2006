@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus contains goals, overview, and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3733711a-a396-0204-9e41-6ff1198e5690
 ---
@@ -27,7 +30,7 @@ The primary text for the course will be _Neuroscience_, edited by Dale Purves, e
 Course Requirements
 -------------------
 
-Each student is required to present at least one paper to the class. The papers will be selected from the asterisked articles in the [lectures]({{< baseurl >}}/pages/lecture-notes).
+Each student is required to present at least one paper to the class. The papers will be selected from the asterisked articles in the {{% resource_link d27dbd75-b71e-73ad-69e6-b847efd63543 "lectures" %}}.
 
 Grading
 -------
